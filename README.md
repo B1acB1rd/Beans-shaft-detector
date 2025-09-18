@@ -41,7 +41,7 @@ This project uses a YOLO-based deep learning model to detect defects or features
 
 ### Training
 
-If you wish to retrain the model, use the TRAIN.PY script (not detailed here). Make sure to prepare your dataset according to YOLO format.
+If you wish to retrain the model, use the TRAIN.PY script. Make sure to prepare your dataset according to YOLO format.
 
 ## Results
 
